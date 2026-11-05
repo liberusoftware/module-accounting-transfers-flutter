@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-transfers-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-transfers",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_transfers_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/transfers.md",
+  "presentationPlan": "projects/accounting/flutter/transfers.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
